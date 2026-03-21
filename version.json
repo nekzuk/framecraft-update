@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.20",
-  "release_date": "2025-11-01",
+  "latest_version": "1.30",
+  "release_date": "2026-03-21",
   "download_url": "https://synekzuk.booth.pm/items/7295171",
-  "release_notes": "Gif/Webp出力、黒帯削除の機能の精度向上など\n※詳しい変更詳細はNote記事にて"
+  "release_notes": "複数サイト向けの出力機能追加\n※詳しい変更詳細はNote記事にて"
 }
 
 
