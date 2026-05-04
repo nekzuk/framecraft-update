@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.30",
-  "release_date": "2026-03-21",
+  "latest_version": "1.40",
+  "release_date": "2026-05-04",
   "download_url": "https://synekzuk.booth.pm/items/7295171",
-  "release_notes": "複数サイト向けの出力機能追加\n※詳しい変更詳細はNote記事にて"
+  "release_notes": "連番画像の入力対応、手動クロップ対応など\n※詳しい変更詳細はNote記事にて"
 }
 
 
